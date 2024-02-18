@@ -11,7 +11,7 @@ iOS System Sounds
 
 A small iOS project that will play known system sounds.
 
-Using information sourced from https://github.com/gromozekapp/parseSystemSounds
+Using information sourced from https://github.com/gromozekapp/ParseSystemSounds
 
 | ![mac512](Images/mac512.png) | ![ScreenShot](Images/ScreenShot.png) |
 | ---------------------------- | ------------------------------------ |
